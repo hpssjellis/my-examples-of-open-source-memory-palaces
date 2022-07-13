@@ -3,7 +3,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=0.5">
 </head>
 <body onmousemove="{
-  document.getElementById('myDiv01').innerHTML = 'X coords: ' + event.screenX + ', Y coords: ' + event.screenY;          
+  // multiply and/or add to fit image                 
+  myX =  (event.clientX * 1.3) + 0    
+  myY =  (event.clientY * 1.3) + 0                 
+  document.getElementById('myDiv01').innerHTML = 'X coords: ' + myX + ', Y coords: ' + myY;          
 }">      
 
 
