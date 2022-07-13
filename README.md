@@ -4,7 +4,7 @@
 this also happens to be the website index!
 Started July 11th, 2022
 
-[BasicMemoryImage.html](/public/BasicMemoryImage)
+[BasicMemoryImage.html](https://hpssjellis.github.io/my-examples-of-open-source-memory-palaces/public/BasicMemoryImage.html)
 
 
 
