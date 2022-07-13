@@ -3,7 +3,7 @@
 This INDEX as a webpage  https://hpssjellis.github.io/my-examples-of-open-source-memory-palaces/
 
 
-this also happens to be the website index!
+This also happens to be the website index!
 Started July 11th, 2022
 
 
