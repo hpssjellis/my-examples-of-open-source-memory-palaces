@@ -3,7 +3,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=0.5">
 </head>
 <body onmousemove="{
-  // multiply and/or add to fit image                 
+  // multiply and/or add to fit image  
+  // the rugby picture is 1199 x 678
   myX =  (event.clientX * 1.3) + 0    
   myY =  (event.clientY * 1.3) + 0                 
   document.getElementById('myDiv01').innerHTML = 'X coords: ' + myX + ', Y coords: ' + myY;          
@@ -12,7 +13,7 @@
 
 
 <!--  MAIN IMAGE  mess around with width and height until they match the coordinates given on screen -->
-<img src="johnyw.png" style="zIndex:0; position:absolute; left:0px; top:0px; width:1300px;   "  />
+<img src="johnyw.png" style="zIndex:0; position:absolute; left:0px; top:0px; width:1199px; height:678px;  "  />
 
 
 
