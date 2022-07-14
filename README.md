@@ -9,6 +9,6 @@ Started July 11th, 2022
 
 Github at [BasicMemoryImage.html](https://github.com/hpssjellis/my-examples-of-open-source-memory-palaces/blob/main/public/BasicMemoryImage.html),   Demo WebPage at [BasicMemoryImage.html](https://hpssjellis.github.io/my-examples-of-open-source-memory-palaces/public/BasicMemoryImage.html)
 
-
+IN the title tags use ```&#10;``` for a line break
 
 
