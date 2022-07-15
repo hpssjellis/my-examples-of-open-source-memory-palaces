@@ -10,7 +10,7 @@ This website is <a href="https://hpssjellis.github.io/my-examples-of-open-source
 
 Started July 11th, 2022
 
-1.  <a href="https://hpssjellis.github.io/my-examples-of-open-source-memory-palaces/public/BasicMemoryImage.html">Rugby Laws with Jonny Wilkinson 2003 Drop Goal</a> 
+1.  <a href="https://hpssjellis.github.io/my-examples-of-open-source-memory-palaces/public/rugby-laws-jonny-w-drop-goal.html">Rugby Laws with Jonny Wilkinson 2003 Drop Goal</a> 
 
 
 
