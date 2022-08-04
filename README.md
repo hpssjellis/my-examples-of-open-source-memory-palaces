@@ -15,6 +15,12 @@ Started July 11th, 2022
 2. Trying a 3x3 grid for order <a href="https://hpssjellis.github.io/my-examples-of-open-source-memory-palaces/public/rugby-laws-jonny-with-grid.html">rugby-laws-jonny-with-grid.html</a>
 
 
+3. Trying a 3x3 grid for order <a href="https://hpssjellis.github.io/my-examples-of-open-source-memory-palaces/public/rugby-laws-2-room-palace.html">rugby-laws-2-room-palace.html</a>
+
+
+
+
+
 
 
 
