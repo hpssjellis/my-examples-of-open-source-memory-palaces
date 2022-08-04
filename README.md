@@ -12,7 +12,7 @@ Started July 11th, 2022
 
 1.  <a href="https://hpssjellis.github.io/my-examples-of-open-source-memory-palaces/public/rugby-laws-jonny-w-drop-goal.html">Rugby Laws with Jonny Wilkinson 2003 Drop Goal</a> 
 
-
+2. Trying a 3x3 grid for order <a href="public/rugby-laws-jonny-with-grid.html">rugby-laws-jonny-with-grid.html</a>
 
 
 
