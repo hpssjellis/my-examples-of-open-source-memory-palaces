@@ -1,5 +1,11 @@
 # my-examples-of-open-source-memory-palaces
 
+
+# This test is as big fail. The problem is that the memory palace must be a creation of your own mind and the objects placed in the palace must also be created by you. This externally making the objects does not help to memorize them any better than flash cards or just writing them down.
+
+# FAIL!
+
+
 This README.md file as a gitpages index! 
 
 The Github of this site is at <a href="https://github.com/hpssjellis/my-examples-of-open-source-memory-palaces"> here </a>
