@@ -35,5 +35,4 @@ The template Github at [BasicMemoryImage.html](https://github.com/hpssjellis/my-
 
 
 
-![image](https://user-images.githubusercontent.com/5605614/179289692-e53c9905-f7b3-4166-972d-334e0bb0fa6f.png)
 
